@@ -1,0 +1,6 @@
+wp-config.php
+wp-content/upgrade/
+wp-content/cache/
+error_log
+.htaccess
+node_modules/
